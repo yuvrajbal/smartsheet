@@ -2,6 +2,15 @@
 
 A full-stack application combining a React-based spreadsheet with AI-powered column generation and a modular API for analyzing structured data using both LLM-based analysis and web-augmented search.
 
+-> Deployed project -  https://smartsheet-opal.vercel.app/
+
+-> Backend is hosted on render , sometimes it takes 90 seconds to process the first request after inactivity
+
+-> Feature Walkthrough Video - https://drive.google.com/file/d/1QTf5_rH1pMcCyI2KJGNUcflVQ_UvxWoe/view?usp=drive_link
+
+-> Livebuild Video - https://drive.google.com/file/d/1gZ2owxPEYoyYl1uzjcjwKFk5j9HlsRMi/view?usp=drive_link
+
+
 ## Overview
 
 This project provides:
